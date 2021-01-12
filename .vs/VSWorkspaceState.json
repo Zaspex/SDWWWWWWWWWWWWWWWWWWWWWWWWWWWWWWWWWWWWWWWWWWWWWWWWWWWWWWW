@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\config\\DaddyZaspx",
+    "\\config\\DaddyZaspx\\profiles",
+    "\\config_template",
+    "\\config_template\\profiles",
+    "\\hotfixes",
+    "\\managers",
+    "\\public"
+  ],
+  "SelectedNode": "\\managers\\api.js",
+  "PreviewInSolutionExplorer": false
+}
